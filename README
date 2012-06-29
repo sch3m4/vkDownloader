@@ -19,7 +19,7 @@ $ python vkdownloader.py 'http://vk.com/http://vk.com/video_ext.php?...' video_o
  
 [+] Do you want to launch WGet and download the file? (y/n)[y]: 
  
---2012-06-29 17:30:33--  http://cs509616.userapi.com/uXXXXXXXXX/video/YYYYYYY.1024.mp4
+--2012-06-29 17:30:33--  http://cs509616.userapi.com/uXXXXXXXXX/video/YYYYYYY.1080.mp4
 Resolving cs509616.userapi.com (cs509616.userapi.com)... 87.240.165.88, 2a00:bdc0:4:8:2:0:509:616
 Connecting to cs509616.userapi.com (cs509616.userapi.com)|87.240.165.88|:80... connected.
 HTTP request sent, awaiting response... 200 OK
