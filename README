@@ -13,9 +13,9 @@ $ python vkdownloader.py 'http://vk.com/http://vk.com/video_ext.php?...' video_o
 [+] Checking resolutions...
 	+ 360 (593 MBytes): http://cs509616.userapi.com/uXXXXXXXXX/video/YYYYYYY.360.mp4
 	+ 720 (1887 MBytes): http://cs509616.userapi.com/uXXXXXXXXX/video/YYYYYYY.720.mp4
-	+ 1024 (2635 MBytes): http://cs509616.userapi.com/uXXXXXXXXX/video/YYYYYYY.1024.mp4
+	+ 1080 (2635 MBytes): http://cs509616.userapi.com/uXXXXXXXXX/video/YYYYYYY.1080.mp4
 
-[+] Select resolution: 1024
+[+] Select resolution: 1080
  
 [+] Do you want to launch WGet and download the file? (y/n)[y]: 
  
