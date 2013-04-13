@@ -9,7 +9,7 @@ import os
 import sys
 import httplib
 
-RESOLUTIONS=['360','720','1080']
+RESOLUTIONS=['240','360','720','1080']
 
 def get_video_preffix(host,path):
     # obtenemos la url del video
